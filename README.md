@@ -26,33 +26,34 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 **`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
 
+---
 ## 📑 Contents
 
-- [Part 3.1: Core MCTS Frameworks for LLMs](#part-31-core-mcts-frameworks-for-llms)
+- [Part 1: Core MCTS Frameworks for LLMs](#part-1-core-mcts-frameworks-for-llms)
   - [Reasoning via Planning (RAP)](#reasoning-via-planning-rap)
   - [TS-LLM and AlphaLLM](#ts-llm-and-alphallm)
   - [LLM Reasoners](#llm-reasoners)
-- [Part 3.2: MCTS for Direct Inference-Time Enhancement](#part-32-mcts-for-direct-inference-time-enhancement)
+- [Part 2: MCTS for Direct Inference-Time Enhancement](#part-2-mcts-for-direct-inference-time-enhancement)
   - [General Reasoning & Problem Solving](#general-reasoning--problem-solving)
   - [Mathematical Reasoning](#mathematical-reasoning)
   - [Code Generation & Software Engineering](#code-generation--software-engineering)
   - [LLM Agents & Interactive Environments](#llm-agents--interactive-environments)
   - [Retrieval-Augmented Generation (RAG) & Knowledge-Intensive Tasks](#retrieval-augmented-generation-rag--knowledge-intensive-tasks)
   - [Multimodal Reasoning](#multimodal-reasoning)
-- [Part 3.3: MCTS for Self-Improvement via Data Generation](#part-33-mcts-for-self-improvement-via-data-generation)
+- [Part 3: MCTS for Self-Improvement via Data Generation](#part-3-mcts-for-self-improvement-via-data-generation)
   - [Foundational Self-Improvement Frameworks](#foundational-self-improvement-frameworks)
   - [Applications in Specific Domains](#applications-in-specific-domains)
     - [General Capabilities & Alignment](#general-capabilities--alignment)
     - [Scientific & Specialized Domains](#scientific--specialized-domains)
     - [Multimodal Applications](#multimodal-applications)
-- [Part 3.4: Advanced Topics and Hybrid Approaches](#part-34-advanced-topics-and-hybrid-approaches)
+- [Part 4: Advanced Topics and Hybrid Approaches](#part-4-advanced-topics-and-hybrid-approaches)
   - [Multi-Agent and Collaborative Search](#multi-agent-and-collaborative-search)
   - [Reward Model Design and Optimization](#reward-model-design-and-optimization)
   - [Search Efficiency and Dynamics](#search-efficiency-and-dynamics)
 
 ---
 
-## Part 3.1: Core MCTS Frameworks for LLMs
+## Part 1: Core MCTS Frameworks for LLMs
 
 ### Reasoning via Planning (RAP)
 - Content related to "Reasoning via Planning (RAP)" goes here.
@@ -65,7 +66,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 ---
 
-## Part 3.2: MCTS for Direct Inference-Time Enhancement
+## Part 2: MCTS for Direct Inference-Time Enhancement
 
 ### General Reasoning & Problem Solving
 - Content related to "General Reasoning & Problem Solving" goes here.
@@ -87,7 +88,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 ---
 
-## Part 3.3: MCTS for Self-Improvement via Data Generation
+## Part 3: MCTS for Self-Improvement via Data Generation
 
 ### Foundational Self-Improvement Frameworks
 - Content related to "Foundational Self-Improvement Frameworks" goes here.
@@ -105,7 +106,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 ---
 
-## Part 3.4: Advanced Topics and Hybrid Approaches
+## Part 4: Advanced Topics and Hybrid Approaches
 
 ### Multi-Agent and Collaborative Search
 - Content related to "Multi-Agent and Collaborative Search" goes here.
@@ -115,3 +116,27 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 ### Search Efficiency and Dynamics
 - Content related to "Search Efficiency and Dynamics" goes here.
+
+## 👏 Contributing
+
+Contributions are highly encouraged! 
+
+If you have a relevant paper that complements this taxonomy, feel free to submit a pull request or reach out to the author directly. 
+
+Your support will help expand and improve this repository!
+
+## 📖 Citation
+If you find this project helpful in your research, please consider cite:
+```bibtex
+@article{wei2025ai,
+  title={From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery},
+  author={Wei, Jiaqi and Yang, Yuejin and Zhang, Xiang and Chen, Yuhan and Zhuang, Xiang and Gao, Zhangyang and Zhou, Dongzhan and Wang, Guangshuai and Gao, Zhiqiang and Cao, Juntai and others},
+  journal={arXiv preprint arXiv:2508.14111},
+  year={2025}
+}
+```
+
+
+<h2>🌟 Star History</h2>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AgenticScience/Awesome-Agent-Scientists&type=Date)](https://www.star-history.com/#AgenticScience/Awesome-Agent-Scientists&Date) 
