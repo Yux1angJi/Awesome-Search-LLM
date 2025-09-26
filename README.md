@@ -1,6 +1,7 @@
-# Awesome Search Algorithms for Test-Time Scaling
-
-<br><br> 
+<div align="center">
+  <h1>Awesome Search Algorithms for Test-Time Scaling</h1>
+  
+  <br><br> 
   <img width="800" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">  
 
   <br><br> 
@@ -26,7 +27,8 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 **`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
 
----
+</div>
+
 ## 📑 Contents
 
 - [Part 1: Core MCTS Frameworks for LLMs](#part-1-core-mcts-frameworks-for-llms)
