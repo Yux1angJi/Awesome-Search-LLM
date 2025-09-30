@@ -655,10 +655,199 @@ Explore this detailed repository to understand how autonomous agents are revolut
 </ul>
 
 ### Retrieval-Augmented Generation (RAG) & Knowledge-Intensive Tasks
-- Content related to "Retrieval-Augmented Generation (RAG) & Knowledge-Intensive Tasks" goes here.
+<ul>
+  <!-- Paper_23: A novel approach to optimize large language models for named entity matching with monte carlo tree search -->
+  <li>
+    <i><b>A Novel Approach to Optimize Large Language Models for Named Entity Matching with Monte Carlo Tree Search</b></i>, Volkova et al.
+    <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/224148/preprint_pdf/157c3392749a8fb55e09e2a452b5c1fb.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Authorea-2024-blue" alt="Authorea 2024">
+    </a>
+  </li>
+
+  <!-- Paper_28: KNOT-MCTS: An Effective Approach to Addressing Hallucinations in Generative Language Modeling for Question Answering -->
+  <li>
+    <i><b>KNOT-MCTS: An Effective Approach to Addressing Hallucinations in Generative Language Modeling for Question Answering</b></i>, Wu et al.
+    <a href="https://aclanthology.org/2023.rocling-1.26.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/ROCLING-2023-blue" alt="ROCLING 2023">
+    </a>
+  </li>
+
+  <!-- Paper_43: Search-in-the-Chain: Interactively Enhancing Large Language Models with Search for Knowledge-intensive Tasks -->
+  <li>
+    <i><b>Search-in-the-Chain: Interactively Enhancing Large Language Models with Search for Knowledge-Intensive Tasks</b></i>, Xu et al.
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645363" target="_blank">
+      <img src="https://img.shields.io/badge/ACM%20Web%20Conf-2024-blue" alt="ACM Web Conf 2024">
+    </a>
+  </li>
+
+  <!-- Paper_45: Monte carlo thought search: Large language model querying for complex scientific reasoning in catalyst design -->
+  <li>
+    <i><b>Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design</b></i>, Sprueill et al.
+    <a href="https://arxiv.org/pdf/2310.14420" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_67: RAGStar: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement -->
+  <li>
+    <i><b>RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement</b></i>, Jiang et al.
+    <a href="https://arxiv.org/pdf/2412.12881" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_72: RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models -->
+  <li>
+    <i><b>RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models</b></i>, Tran et al.
+    <a href="https://arxiv.org/pdf/2412.02830" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_73: CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation -->
+  <li>
+    <i><b>CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2411.00744" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_81: Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling -->
+  <li>
+    <i><b>Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling</b></i>, Li et al.
+    <a href="https://arxiv.org/abs/2412.14860" target="_blank">
+      <img src="https://img.shields.io/badge/ACL-2025-blue" alt="ACL 2025">
+    </a>
+  </li>
+
+  <!-- Paper_82: RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs -->
+  <li>
+    <i><b>RiTeK: A Dataset for Large Language Models Complex Reasoning Over Textual Knowledge Graphs</b></i>, Huang et al.
+    <a href="https://arxiv.org/pdf/2410.13987" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_89: KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection -->
+  <li>
+    <i><b>KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection</b></i>, Choi et al.
+    <a href="https://arxiv.org/pdf/2310.09044" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_2 (Jan-Apr 2025): AirRAG: Activating Intrinsic Reasoning for Retrieval Augmented Generation via Tree-based Search -->
+  <li>
+    <i><b>AirRAG: Activating Intrinsic Reasoning for Retrieval Augmented Generation Using Tree-Based Search</b></i>, Feng et al.
+    <a href="https://arxiv.org/pdf/2501.10053" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_5 (Jan-Apr 2025): MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking -->
+  <li>
+    <i><b>MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking</b></i>, Jiang et al.
+    <a href="https://arxiv.org/pdf/2501.12051" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_8 (Jan-Apr 2025): KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search -->
+  <li>
+    <i><b>KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search</b></i>, Luo et al.
+    <a href="https://arxiv.org/pdf/2501.17104" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_19 (Jan-Apr 2025): MCTS-KBQA: Monte Carlo Tree Search for Knowledge Base Question Answering -->
+  <li>
+    <i><b>MCTS-KBQA: Monte Carlo Tree Search for Knowledge Base Question Answering</b></i>, Xiong et al.
+    <a href="https://arxiv.org/pdf/2502.13428" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_19 (May-Aug 2025): Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS -->
+  <li>
+    <i><b>Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS</b></i>, Dou et al.
+    <a href="https://arxiv.org/pdf/2507.05557" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_31 (May-Aug 2025): MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search -->
+  <li>
+    <i><b>MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search</b></i>, Hu et al.
+    <a href="https://arxiv.org/pdf/2503.20757" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_42 (May-Aug 2025): Toward Structured Knowledge Reasoning: Contrastive Retrieval-Augmented Generation on Experience -->
+  <li>
+    <i><b>Toward Structured Knowledge Reasoning: Contrastive Retrieval-Augmented Generation on Experience</b></i>, Gu et al.
+    <a href="https://arxiv.org/pdf/2506.00842" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_46 (May-Aug 2025): FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS -->
+  <li>
+    <i><b>FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS</b></i>, Kim et al.
+    <a href="https://arxiv.org/pdf/2505.16409" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_51 (May-Aug 2025): Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs -->
+  <li>
+    <i><b>Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs</b></i>, Wei et al.
+    <a href="https://arxiv.org/pdf/2505.07184" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### Multimodal Reasoning
-- Content related to "Multimodal Reasoning" goes here.
+<ul>
+  <li>
+    <i><b>Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search</b></i>, Yao, Huanjin et al.
+    <a href="https://arxiv.org/pdf/2412.18319" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Progressive multimodal reasoning via active retrieval</b></i>, Dong, Guanting et al.
+    <a href="https://arxiv.org/pdf/2412.14835" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Boosting multimodal reasoning with mcts-automated structured thinking</b></i>, Wu, Jinyang et al.
+    <a href="https://arxiv.org/abs/2502.02339" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique</b></i>, Liu, Shuhang et al.
+    <a href="https://arxiv.org/pdf/2504.11009" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>Dyfo: A training-free dynamic focus visual search for enhancing lmms in fine-grained visual understanding</b></i>, Li, Geng et al.
+    <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DyFo_A_Training-Free_Dynamic_Focus_Visual_Search_for_Enhancing_LMMs_CVPR_2025_paper.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/CVPR-2025-red" alt="CVPR 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision</b></i>, Du, Lingxiao et al.
+    <a href="https://arxiv.org/pdf/2505.13427" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ---
 
