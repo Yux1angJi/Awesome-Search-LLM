@@ -2,7 +2,7 @@
   <h1>Awesome Search Algorithms for Test-Time Scaling</h1>
   
   <br><br> 
-  <img width="800" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">  
+  <img width="800" alt="Test-time-scaling" src="./figures/shlab3.png">  
 
   <br><br> 
 
@@ -118,7 +118,169 @@ Explore this detailed repository to understand how autonomous agents are revolut
 </ul>
 
 ### Mathematical Reasoning
-- Content related to "Mathematical Reasoning" goes here.
+<ul>
+
+  <!-- Paper_2: ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search -->
+  <li>
+    <i><b>ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search</b></i>, Zhang et al.
+    <a href="https://arxiv.org/abs/2406.03816" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_6: Toward self-improvement of llms via imagination, searching, and criticizing. -->
+  <li>
+    <i><b>Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing</b></i>, Tian et al.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/5e5853f35164e434015716a8c2a66543-Paper-Conference.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper_7: Monte carlo tree search boosts reasoning via iterative preference learning -->
+  <li>
+    <i><b>Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning</b></i>, Xie et al.
+    <a href="https://arxiv.org/pdf/2405.00451" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_8: Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B -->
+  <li>
+    <i><b>Accessing GPT-4 Level Mathematical Olympiad Solutions via Monte Carlo Tree Self-Refine with LLaMa-3 8B</b></i>, Zhang et al.
+    <a href="https://arxiv.org/pdf/2406.07394" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_32: No train still gain. unleash mathematical reasoning of large language models with monte carlo tree search guided by energy function -->
+  <li>
+    <i><b>No Train Still Gain. Unleash Mathematical Reasoning of Large Language Models with Monte Carlo Tree Search Guided by Energy Function</b></i>, Xu et al.
+    <a href="https://arxiv.org/pdf/2309.03224" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_35: Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers -->
+  <li>
+    <i><b>Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers</b></i>, Qi et al.
+    <a href="https://arxiv.org/pdf/2408.06195" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_36: AlphaMath Almost Zero: Process Supervision without Process -->
+  <li>
+    <i><b>AlphaMath Almost Zero: Process Supervision Without Process</b></i>, Chen et al.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/30dfe47a3ccbee68cffa0c19ccb1bc00-Paper-Conference.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper_41: LiteSearch: Efficacious Tree Search for LLM -->
+  <li>
+    <i><b>LiteSearch: Efficacious Tree Search for LLM</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2407.00320" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_48: Markov Chain of Thought for Efficient Mathematical Reasoning -->
+  <li>
+    <i><b>Markov Chain of Thought for Efficient Mathematical Reasoning</b></i>, Yang et al.
+    <a href="https://arxiv.org/pdf/2410.17635" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_52: OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning -->
+  <li>
+    <i><b>OVM, Outcome-Supervised Value Models for Planning in Mathematical Reasoning</b></i>, Yu et al.
+    <a href="https://arxiv.org/pdf/2311.09724" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_53: Mindstar: Enhancing math reasoning in pre-trained llms at inference time -->
+  <li>
+    <i><b>MindStar: Enhancing Math Reasoning in Pre-Trained LLMs at Inference Time</b></i>, Kang et al.
+    <a href="https://arxiv.org/pdf/2405.16265" target="_blank">
+      <img src="https://imgshields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_57: LLaMA-Berry: Pairwise Optimization for Olympiad-level Mathematical Reasoning via O1-like Monte Carlo Tree Search -->
+  <li>
+    <i><b>LLaMA-Berry: Pairwise Optimization for Olympiad-Level Mathematical Reasoning via O1-like Monte Carlo Tree Search</b></i>, Zhang et al.
+    <a href="https://aclanthology.org/2025.naacl-long.375.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/NAACL-2025-blue" alt="NAACL 2025">
+    </a>
+  </li>
+
+  <!-- Paper_59: Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS -->
+  <li>
+    <i><b>Beyond Examples: High-Level Automated Reasoning Paradigm in In-Context Learning via MCTS</b></i>, Wu et al.
+    <a href="https://arxiv.org/pdf/2411.18478" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_66: BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning -->
+  <li>
+    <i><b>BoostStep: Boosting Mathematical Capability of Large Language Models via Improved Single-Step Reasoning</b></i>, Zhang et al.
+    <a href="https://arxiv.org/pdf/2501.03226" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_69: Step-level Value Preference Optimization for Mathematical Reasoning -->
+  <li>
+    <i><b>Step-Level Value Preference Optimization for Mathematical Reasoning</b></i>, Chen et al.
+    <a href="https://arxiv.org/pdf/2406.10858" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_70: Improve Mathematical Reasoning in Language Models by Automated Process Supervision -->
+  <li>
+    <i><b>Improve Mathematical Reasoning in Language Models by Automated Process Supervision</b></i>, Luo et al.
+    <a href="https://arxiv.org/pdf/2406.06592" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_79: What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning -->
+  <li>
+    <i><b>What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning</b></i>, Ma et al.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34663" target="_blank">
+      <img src="https://img.shields.io/badge/AAAI-2025-blue" alt="AAAI 2025">
+    </a>
+  </li>
+
+  <!-- Paper_80: Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning -->
+  <li>
+    <i><b>Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning</b></i>, Park et al.
+    <a href="https://arxiv.org/pdf/2412.15797" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_91: rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking -->
+  <li>
+    <i><b>rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking</b></i>, Guan et al.
+    <a href="https://arxiv.org/pdf/2501.04519" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_15 (Jan-Apr 2025): Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning -->
+  <li>
+    <i><b>Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning</b></i>, Lin et al.
+    <a href="https://arxiv.org/abs/2502.11169" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+</ul>
 
 ### Code Generation & Software Engineering
 - Content related to "Code Generation & Software Engineering" goes here.
