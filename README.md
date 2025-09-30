@@ -283,10 +283,376 @@ Explore this detailed repository to understand how autonomous agents are revolut
 </ul>
 
 ### Code Generation & Software Engineering
-- Content related to "Code Generation & Software Engineering" goes here.
+<ul>
+  <!-- Paper_13: Planning with Large Language Models for Code Generation -->
+  <li>
+    <i><b>Planning With Large Language Models for Code Generation</b></i>, Zhang et al.
+    <a href="https://arxiv.org/pdf/2303.05510" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_17: Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS -->
+  <li>
+    <i><b>Make Every Move Count: LLM-Based High-Quality RTL Code Generation Using MCTS</b></i>, DeLorenzo et al.
+    <a href="https://arxiv.org/pdf/2402.03289" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_20: RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation -->
+  <li>
+    <i><b>RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation</b></i>, Li et al.
+    <a href="https://arxiv.org/pdf/2409.09584" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_22 & 27: VerMCTS: Synthesizing Multi-Step Programs using a Verifier, a Large Language Model, and Tree Search -->
+  <li>
+    <i><b>VerMCTS: Synthesizing Multi-Step Programs Using a Verifier, a Large Language Model, and Tree Search</b></i>, Brandfonbrener et al.
+    <a href="https://arxiv.org/pdf/2402.08147" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_33: Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search -->
+  <li>
+    <i><b>Generating Code World Models With Large Language Models Guided by Monte Carlo Tree Search</b></i>, Dainese et al.
+    <a href="https://arxiv.org/abs/2405.15383" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper_56: Planning In Natural Language Improves LLM Search For Code Generation -->
+  <li>
+    <i><b>Planning In Natural Language Improves LLM Search For Code Generation</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2409.03733" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_58: o1-Coder: an o1 Replication for Coding -->
+  <li>
+    <i><b>O1-Coder: An O1 Replication for Coding</b></i>, Zhang et al.
+    <a href="https://arxiv.org/pdf/2412.00154" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_60 & 61: SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation -->
+  <li>
+    <i><b>SRA-MCTS: Self-Driven Reasoning Augmentation With Monte Carlo Tree Search for Code Generation</b></i>, Xu et al.
+    <a href="https://arxiv.org/pdf/2411.11053" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_62 & 74: SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement -->
+  <li>
+    <i><b>SWE-Search: Enhancing Software Agents With Monte Carlo Tree Search and Iterative Refinement</b></i>, Antoniades et al.
+    <a href="https://arxiv.org/pdf/2410.20285" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_77: PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion -->
+  <li>
+    <i><b>PepTune: De Novo Generation of Therapeutic Peptides With Multi-Objective-Guided Discrete Diffusion</b></i>, Tang et al.
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11703324/" target="_blank">
+      <img src="https://img.shields.io/badge/PMC-2025-green" alt="PMC 2025">
+    </a>
+  </li>
+
+  <!-- Paper_14 (Jan-Apr 2025): BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving -->
+  <li>
+    <i><b>BFS-Prover: Scalable Best-First Tree Search for LLM-Based Automatic Theorem Proving</b></i>, Xin et al.
+    <a href="https://arxiv.org/pdf/2502.03438" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_18 (Jan-Apr 2025): MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation -->
+  <li>
+    <i><b>MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2502.12468" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_15 (May-Aug 2025): SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution -->
+  <li>
+    <i><b>SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</b></i>, Li et al.
+    <a href="https://arxiv.org/pdf/2507.23348" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_22 (May-Aug 2025): Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving -->
+  <li>
+    <i><b>Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving</b></i>, Zimmer et al.
+    <a href="https://arxiv.org/pdf/2507.02726" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_24 (May-Aug 2025): APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search -->
+  <li>
+    <i><b>APRMCTS: Improving LLM-Based Automated Program Repair With Iterative Tree Search</b></i>, Hu et al.
+    <a href="https://arxiv.org/pdf/2507.01827" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_32 (May-Aug 2025): MCTS-Refined CoT: High-Quality Fine-Tuning Data for LLM-Based Repository Issue Resolution -->
+  <li>
+    <i><b>MCTS-Refined CoT: High-Quality Fine-Tuning Data for LLM-Based Repository Issue Resolution</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2506.12728" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### LLM Agents & Interactive Environments
-- Content related to "LLM Agents & Interactive Environments" goes here.
+<ul>
+  <!-- Paper_9: TREE SEARCH FOR LANGUAGE MODEL AGENTS -->
+  <li>
+    <i><b>Tree Search for Language Model Agents</b></i>, Koh et al.
+    <a href="https://arxiv.org/pdf/2407.01476" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_10: Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models -->
+  <li>
+    <i><b>Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models</b></i>, Zhai et al.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34924" target="_blank">
+      <img src="https://img.shields.io/badge/AAAI-2025-blue" alt="AAAI 2025">
+    </a>
+  </li>
+
+  <!-- Paper_11: Large Language Models as Commonsense Knowledge for Large-Scale Task Planning -->
+  <li>
+    <i><b>Large Language Models as Commonsense Knowledge for Large-Scale Task Planning</b></i>, Zhao et al.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2023-blue" alt="NeurIPS 2023">
+    </a>
+  </li>
+
+  <!-- Paper_19: Can Large Language Models Play Games? A Case Study of A Self-Play Approach -->
+  <li>
+    <i><b>Can Large Language Models Play Games? A Case Study of A Self-Play Approach</b></i>, Guo et al.
+    <a href="http://arxiv.org/pdf/2403.05632" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_25: Planning with Large Language Models for Conversational Agents -->
+  <li>
+    <i><b>Planning with Large Language Models for Conversational Agents</b></i>, Li et al.
+    <a href="https://papers.cool/arxiv/search?highlight=1&query=Planning+with+Large+Language+Models+for+Conversational+Agents&show=200" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_26: Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning -->
+  <li>
+    <i><b>Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning</b></i>, Yu et al.
+    <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+  </li>
+
+  <!-- Paper_29: REX: Rapid Exploration and eXploitation for AI Agents -->
+  <li>
+    <i><b>REX: Rapid Exploration and eXploitation for AI Agents</b></i>, Murthy et al.
+    <a href="https://openreview.net/forum?id=8TAGx549Ns" target="_blank">
+      <img src="https://img.shields.io/badge/OpenReview-2023-blue" alt="OpenReview 2023">
+    </a>
+  </li>
+
+  <!-- Paper_30 & 64: SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning -->
+  <li>
+    <i><b>SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning</b></i>, Chi et al.
+    <a href="https://arxiv.org/pdf/2410.17238" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_31: Toolchain: Efficient action space navigation in large language models with a* search -->
+  <li>
+    <i><b>ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search</b></i>, Zhuang et al.
+    <a href="https://arxiv.org/pdf/2310.13227" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_34: Agent q: Advanced reasoning and learning for autonomous ai agents -->
+  <li>
+    <i><b>Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents</b></i>, Putta et al.
+    <a href="https://arxiv.org/pdf/2408.07199" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_37: Information Directed Tree Search: Reasoning and Planning with Language Agents -->
+  <li>
+    <i><b>Information Directed Tree Search: Reasoning and Planning with Language Agents</b></i>, Chandak et al.
+    <a href="https://openreview.net/pdf?id=turWYO1w2Q" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper_44: LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning -->
+  <li>
+    <i><b>LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning</b></i>, Meng et al.
+    <a href="https://arxiv.org/pdf/2407.02511" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_46: Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search -->
+  <li>
+    <i><b>Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search</b></i>, Light et al.
+    <a href="https://arxiv.org/pdf/2408.10635" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_47: Language agent tree search unifies reasoning acting and planning in language models -->
+  <li>
+    <i><b>Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</b></i>, Zhou et al.
+    <a href="https://arxiv.org/pdf/2310.04406" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_78: Multi-Agent Sampling: Scaling Inference Compute for Data Synthesis with Tree Search-Based Agentic Collaboration -->
+  <li>
+    <i><b>Multi-Agent Sampling: Scaling Inference Compute for Data Synthesis with Tree Search-Based Agentic Collaboration</b></i>, Ye et al.
+    <a href="https://arxiv.org/pdf/2412.17061" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_84: SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search -->
+  <li>
+    <i><b>SAPIENT: Mastering Multi-Turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search</b></i>, Du et al.
+    <a href="https://arxiv.org/pdf/2410.09580" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_85: WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration -->
+  <li>
+    <i><b>WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration</b></i>, Zhang et al.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34505" target="_blank">
+      <img src="https://img.shields.io/badge/AAAI-2025-blue" alt="AAAI 2025">
+    </a>
+  </li>
+
+  <!-- Paper_86: A Training Data Recipe to Accelerate A* Search with Language Models -->
+  <li>
+    <i><b>A Training Data Recipe to Accelerate A* Search with Language Models</b></i>, Gupta et al.
+    <a href="https://arxiv.org/pdf/2407.09985" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_87: Planning Like Human: A Dual-process Framework for Dialogue Planning -->
+  <li>
+    <i><b>Planning Like Human: A Dual-Process Framework for Dialogue Planning</b></i>, He et al.
+    <a href="https://arxiv.org/pdf/2406.05374" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_90: Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue Policy Planning -->
+  <li>
+    <i><b>Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue Policy Planning</b></i>, Yu et al.
+    <a href="https://arxiv.org/pdf/2305.13660" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_1 (Jan-Apr 2025): Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design -->
+  <li>
+    <i><b>Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design</b></i>, Zheng et al.
+    <a href="https://arxiv.org/pdf/2501.08603" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_4 (Jan-Apr 2025): Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training -->
+  <li>
+    <i><b>Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training</b></i>, Yuan et al.
+    <a href="https://arxiv.org/pdf/2501.11425" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_6 (Jan-Apr 2025): MASTER: A Multi-Agent System with LLM Specialized MCTS -->
+  <li>
+    <i><b>MASTER: A Multi-Agent System with LLM Specialized MCTS</b></i>, Gan et al.
+    <a href="https://arxiv.org/pdf/2501.14304" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_9 (Jan-Apr 2025): Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search -->
+  <li>
+    <i><b>Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search</b></i>, Shi et al.
+    <a href="https://arxiv.org/pdf/2502.00955" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_13 (May-Aug 2025): SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents -->
+  <li>
+    <i><b>SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents</b></i>, Lin et al.
+    <a href="https://arxiv.org/pdf/2508.02085" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_21 (May-Aug 2025): WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis -->
+  <li>
+    <i><b>WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis</b></i>, Gao et al.
+    <a href="https://arxiv.org/pdf/2507.04370" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_35 (May-Aug 2025): Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills -->
+  <li>
+    <i><b>Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills</b></i>, Xie et al.
+    <a href="https://arxiv.org/pdf/2506.10387" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_41 (May-Aug 2025): AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search -->
+  <li>
+    <i><b>AgentSwift: Efficient LLM Agent Design via Value-Guided Hierarchical Search</b></i>, Li et al.
+    <a href="https://arxiv.org/pdf/2506.06017" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_49 (May-Aug 2025): HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems -->
+  <li>
+    <i><b>HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems</b></i>, Hou et al.
+    <a href="https://arxiv.org/pdf/2505.13516" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_52 (May-Aug 2025): AgentXploit: End-to-End Redteaming of Black-Box AI Agents -->
+  <li>
+    <i><b>AgentXploit: End-to-End Redteaming of Black-Box AI Agents</b></i>, Wang et al.
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250505849W/abstract" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### Retrieval-Augmented Generation (RAG) & Knowledge-Intensive Tasks
 - Content related to "Retrieval-Augmented Generation (RAG) & Knowledge-Intensive Tasks" goes here.
