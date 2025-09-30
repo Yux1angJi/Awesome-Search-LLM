@@ -54,7 +54,68 @@ Explore this detailed repository to understand how autonomous agents are revolut
 ## Part 1: MCTS for Direct Inference-Time Enhancement
 
 ### General Reasoning & Problem Solving
-- Content related to "General Reasoning & Problem Solving" goes here.
+<ul>
+  <li>
+    <i><b>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</b></i>, Muralidharan, Jananee and Thomas, Tiju  
+    <a href="https://arxiv.org/pdf/2305.10601" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+  <li>
+    <i><b>Reasoning with language model is planning with world model</b></i>, Hao, Shibo et al.  
+    <a href="https://arxiv.org/abs/2305.14992" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+  <li>
+    <i><b>AlphaZero-Like Tree-Search can Guide Large Language Model Decoding and Training</b></i>, Feng, Xidong et al.  
+    <a href="https://arxiv.org/pdf/2309.17179" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+  <li>
+    <i><b>Towards self-improvement of llms via mcts: Leveraging stepwise knowledge with curriculum preference learning</b></i>, Wang, Xiyao et al.  
+    <a href="https://arxiv.org/abs/2410.06508" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>PPL-MCTS: Constrained textual generation through discriminator-guided MCTS decoding</b></i>, Chaffin, Antoine et al.  
+    <a href="https://arxiv.org/pdf/2109.13582" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2021-red" alt="arXiv 2021">
+    </a>
+  </li>
+  <li>
+    <i><b>Don't throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding</b></i>, Liu, Jiacheng et al.  
+    <a href="https://arxiv.org/pdf/2309.15028" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+  <li>
+    <i><b>Args: Alignment as reward-guided search</b></i>, Khanov, Maxim et al.  
+    <a href="http://arxiv.org/pdf/2402.01694" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>When is tree search useful for llm planning? it depends on the discriminator</b></i>, Chen, Ziru et al.  
+    <a href="https://arxiv.org/pdf/2402.10890" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Interpretable contrastive monte carlo tree search reasoning</b></i>, Gao, Zitian et al.  
+    <a href="https://arxiv.org/pdf/2410.01707" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Synthetic data generation from real data sources using monte carlo tree search and large language models</b></i>, Locowic, Leonardo et al.  
+    <a href="https://www.authorea.com/doi/full/10.22541/au.172660477.72210139" target="_blank">
+      <img src="https://img.shields.io/badge/Authorea-2024-blue" alt="Authorea 2024">
+    </a>
+  </li>
+</ul>
 
 ### Mathematical Reasoning
 - Content related to "Mathematical Reasoning" goes here.
