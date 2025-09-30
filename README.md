@@ -872,7 +872,39 @@ Explore this detailed repository to understand how autonomous agents are revolut
 ## Part 3: Advanced Topics and Hybrid Approaches
 
 ### Multi-Agent and Collaborative Search
-- Content related to "Multi-Agent and Collaborative Search" goes here.
+<ul>
+  <!-- Paper 1: MASTER: A Multi-Agent System with LLM Specialized MCTS -->
+  <li>
+    <i><b>MASTER: A Multi-Agent System with LLM Specialized MCTS</b></i>, Gan et al.
+    <a href="https://arxiv.org/pdf/2501.14304" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 2: SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution -->
+  <li>
+    <i><b>SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</b></i>, Li et al.
+    <a href="https://arxiv.org/pdf/2507.23348" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 3: Multi-LLM Collaborative Search for Complex Problem Solving -->
+  <li>
+    <i><b>Multi-LLM Collaborative Search for Complex Problem Solving</b></i>, Yang et al.
+    <a href="https://arxiv.org/pdf/2502.18873" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 4: HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems -->
+  <li>
+    <i><b>HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems</b></i>, Hou et al.
+    <a href="https://arxiv.org/pdf/2505.13516" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### Reward Model Design and Optimization
 - Content related to "Reward Model Design and Optimization" goes here.
