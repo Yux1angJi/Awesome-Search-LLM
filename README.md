@@ -1,7 +1,10 @@
 <div align="center">
   <h1>Awesome Search Algorithms for Test-Time Scaling</h1>
   
-
+  <br><br> 
+  <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
+  <br><br> 
+  
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AwesomeSearch-red)](https://arxiv.org/abs/2508.14111)
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
@@ -15,9 +18,7 @@ This repository, accompanying our paper, provides **a comprehensive review** and
 
 demonstrating how these algorithms are revolutionizing LLM test-time reasoning with scalable and efficient problem-solving solutions.
 
-  <br><br> 
-  <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
-  <br><br> 
+
 
 Dive into this repository to explore how innovative search-based methods like MCTS are reshaping reasoning capabilities in LLMs!
 
