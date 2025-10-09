@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome Tree Search Algorithms for LLM</h1>
   
-
+  <br> 
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AwesomeSearch-red)](https://arxiv.org/abs/2508.14111)
