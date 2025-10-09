@@ -907,10 +907,122 @@ Explore this detailed repository to understand how autonomous agents are revolut
 </ul>
 
 ### Reward Model Design and Optimization
-- Content related to "Reward Model Design and Optimization" goes here.
+<ul>
+  <!-- Paper: OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning -->
+  <li>
+    <i><b>OVM, Outcome-Supervised Value Models for Planning in Mathematical Reasoning</b></i>, Yu et al.
+    <a href="https://arxiv.org/pdf/2311.09724" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper: Let’s reward step by step: Step-level reward model as the navigators for reasoning -->
+  <li>
+    <i><b>Let’s Reward Step by Step: Step-Level Reward Model as the Navigators for Reasoning</b></i>, Ma et al.
+    <a href="https://arxiv.org/pdf/2310.10080" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper: Improve Mathematical Reasoning in Language Models by Automated Process Supervision -->
+  <li>
+    <i><b>Improve Mathematical Reasoning in Language Models by Automated Process Supervision</b></i>, Luo et al.
+    <a href="https://arxiv.org/pdf/2406.06592" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper: What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning -->
+  <li>
+    <i><b>What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning</b></i>, Ma et al.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34663" target="_blank">
+      <img src="https://img.shields.io/badge/AAAI-2025-blue" alt="AAAI 2025">
+    </a>
+  </li>
+
+  <!-- Paper: Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS -->
+  <li>
+    <i><b>Your Reward Function for RL Is Your Best PRM for Search: Unifying RL and Search-Based TTS</b></i>, Jin et al.
+    <a href="https://arxiv.org/pdf/2508.14313" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper: MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling -->
+  <li>
+    <i><b>MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling</b></i>, Feng et al.
+    <a href="https://arxiv.org/pdf/2503.12123" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper: Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models -->
+  <li>
+    <i><b>Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2503.13551" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### Search Efficiency and Dynamics
-- Content related to "Search Efficiency and Dynamics" goes here.
+<ul>
+  <!-- Paper 9: Information Directed Tree Search: Reasoning and Planning with Language Agents -->
+  <li>
+    <i><b>Information Directed Tree Search: Reasoning and Planning with Language Agents</b></i>, Chandak et al.
+    <a href="https://openreview.net/pdf?id=turWYO1w2Q" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper 10: LiteSearch: Efficacious Tree Search for LLM -->
+  <li>
+    <i><b>LiteSearch: Efficacious Tree Search for LLM</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2407.00320" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 11: BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning -->
+  <li>
+    <i><b>BoostStep: Boosting Mathematical Capability of Large Language Models via Improved Single-Step Reasoning</b></i>, Zhang et al.
+    <a href="https://arxiv.org/pdf/2501.03226" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 12: Bilevel MCTS for Amortized O(1) Node Selection in Classical Planning -->
+  <li>
+    <i><b>Bilevel MCTS for Amortized O(1) Node Selection in Classical Planning</b></i>, Asai et al.
+    <a href="https://arxiv.org/pdf/2508.08385" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 13: Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs -->
+  <li>
+    <i><b>Skip a Layer or Loop It? Test-Time Depth Adaptation of Pretrained LLMs</b></i>, Li et al.
+    <a href="https://arxiv.org/pdf/2507.07996" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 14: Time-critical and confidence-based abstraction dropping methods -->
+  <li>
+    <i><b>Time-Critical and Confidence-Based Abstraction Dropping Methods</b></i>, Schmocker et al.
+    <a href="https://arxiv.org/pdf/2507.02703" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 15: Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search -->
+  <li>
+    <i><b>Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search</b></i>, Inoue et al.
+    <a href="https://arxiv.org/pdf/2503.04412" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ## 👏 Contributing
 
