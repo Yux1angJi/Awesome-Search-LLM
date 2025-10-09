@@ -15,11 +15,11 @@
 
 Welcome to the **"Awesome Search"** repository ！
 
-This repository, part of the **Intern Discovery** project, 
+This repository, accompanying our paper, provides a comprehensive review and unified framework for tree search-based methods, 
 
-showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery**.
+demonstrating how these algorithms are revolutionizing LLM test-time reasoning with scalable and efficient problem-solving solutions.
 
-Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
+Dive into this repository to explore how innovative search-based methods like MCTS are reshaping reasoning capabilities in LLMs!
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
 
@@ -29,6 +29,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 </div>
 
+## 👋 Introduction
 ## 📑 Contents
 
 - [Part 1: MCTS for Direct Inference-Time Enhancement](#part-2-mcts-for-direct-inference-time-enhancement)
@@ -854,12 +855,202 @@ Explore this detailed repository to understand how autonomous agents are revolut
 ## Part 2: MCTS for Self-Improvement via Data Generation
 
 ### Foundational Self-Improvement Frameworks
-- Content related to "Foundational Self-Improvement Frameworks" goes here.
+<ul>
+  <!-- Paper_4: Alphazero-like tree-search can guide large language model decoding and training -->
+  <li>
+    <i><b>AlphaZero-Like Tree-Search Can Guide Large Language Model Decoding and Training</b></i>, Feng et al.
+    <a href="https://arxiv.org/pdf/2309.17179" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper_6: Toward self-improvement of llms via imagination, searching, and criticizing -->
+  <li>
+    <i><b>Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing</b></i>, Tian et al.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/5e5853f35164e434015716a8c2a66543-Paper-Conference.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper_7: Monte carlo tree search boosts reasoning via iterative preference learning -->
+  <li>
+    <i><b>Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning</b></i>, Xie et al.
+    <a href="https://arxiv.org/pdf/2405.00451" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_34: Agent q: Advanced reasoning and learning for autonomous ai agents -->
+  <li>
+    <i><b>Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents</b></i>, Putta et al.
+    <a href="https://arxiv.org/pdf/2408.07199" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_35: Mutual reasoning makes smaller llms stronger problem-solvers -->
+  <li>
+    <i><b>Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers</b></i>, Qi et al.
+    <a href="https://arxiv.org/pdf/2408.06195" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_36: Alphamath almost zero: process supervision without process -->
+  <li>
+    <i><b>AlphaMath Almost Zero: Process Supervision Without Process</b></i>, Chen et al.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/30dfe47a3ccbee68cffa0c19ccb1bc00-Paper-Conference.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-blue" alt="NeurIPS 2024">
+    </a>
+  </li>
+
+  <!-- Paper_38: Cpl: Critical plan step learning boosts llm generalization in reasoning tasks -->
+  <li>
+    <i><b>CPL: Critical Plan Step Learning Boosts LLM Generalization in Reasoning Tasks</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2409.08642" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_69: Step-level value preference optimization for mathematical reasoning -->
+  <li>
+    <i><b>Step-Level Value Preference Optimization for Mathematical Reasoning</b></i>, Chen et al.
+    <a href="https://arxiv.org/pdf/2406.10858" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_5: Towards self-improvement of llms via mcts: Leveraging stepwise knowledge with curriculum preference learning -->
+  <li>
+    <i><b>Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning</b></i>, Wang et al.
+    <a href="https://arxiv.org/abs/2410.06508" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper_2 & 91: rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking -->
+  <li>
+    <i><b>RStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking</b></i>, Guan et al.
+    <a href="https://arxiv.org/pdf/2501.04519" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_4 of Jan-Apr 2025: Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training -->
+  <li>
+    <i><b>Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training</b></i>, Yuan et al.
+    <a href="https://arxiv.org/pdf/2501.11425" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_9 of Jan-Apr 2025: Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search -->
+  <li>
+    <i><b>Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search</b></i>, Shi et al.
+    <a href="https://arxiv.org/pdf/2502.00955" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_2 of May-Aug 2025: TreeRPO: Tree Relative Policy Optimization -->
+  <li>
+    <i><b>TreeRPO: Tree Relative Policy Optimization</b></i>, Yang et al.
+    <a href="https://arxiv.org/pdf/2505.23564" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_32 of May-Aug 2025: MCTS-Refined CoT: High-Quality Fine-Tuning Data for LLM-Based Repository Issue Resolution -->
+  <li>
+    <i><b>MCTS-Refined CoT: High-Quality Fine-Tuning Data for LLM-Based Repository Issue Resolution</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2506.12728" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper_25 of May-Aug 2025: ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context -->
+  <li>
+    <i><b>ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context</b></i>, Kim et al.
+    <a href="https://arxiv.org/pdf/2507.00417" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### Applications in Specific Domains
 
 #### General Capabilities & Alignment
-- Content related to "General Capabilities & Alignment" goes here.
+<ul>
+  <!-- Paper 12: PPL-MCTS: Constrained textual generation through discriminator-guided MCTS decoding -->
+  <li>
+    <i><b>PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding</b></i>, Chaffin et al.
+    <a href="https://arxiv.org/pdf/2109.13582" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2021-red" alt="arXiv 2021">
+    </a>
+  </li>
+
+  <!-- Paper 14: Don't throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding -->
+  <li>
+    <i><b>Don't Throw Away Your Value Model! Generating More Preferable Text with Value-Guided Monte-Carlo Tree Search Decoding</b></i>, Liu et al.
+    <a href="https://arxiv.org/pdf/2309.15028" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper 15: Args: Alignment as reward-guided search -->
+  <li>
+    <i><b>ARGS: Alignment as Reward-Guided Search</b></i>, Khanov et al.
+    <a href="http://arxiv.org/pdf/2402.01694" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 26: Improving autonomous ai agents with reflective tree search and self-learning -->
+  <li>
+    <i><b>Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning</b></i>, Yu et al.
+    <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+  </li>
+
+  <!-- Paper 50: Promptagent: Strategic planning with language models enables expert-level prompt optimization -->
+  <li>
+    <i><b>PromptAgent: Strategic Planning with Language Models Enables Expert-Level Prompt Optimization</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2310.16427" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper 51: Dynamic rewarding with prompt optimization enables tuning-free self-alignment of language models -->
+  <li>
+    <i><b>Dynamic Rewarding with Prompt Optimization Enables Tuning-Free Self-Alignment of Language Models</b></i>, Singla et al.
+    <a href="https://arxiv.org/pdf/2411.08733" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 83: Optimizing Instruction Synthesis: Effective Exploration of Evolutionary Space with Tree Search -->
+  <li>
+    <i><b>Optimizing Instruction Synthesis: Effective Exploration of Evolutionary Space with Tree Search</b></i>, Li et al.
+    <a href="https://arxiv.org/pdf/2410.10392" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 12 of Jan-Apr 2025: Stair: Improving safety alignment with introspective reasoning -->
+  <li>
+    <i><b>STAIR: Improving Safety Alignment with Introspective Reasoning</b></i>, Zhang et al.
+    <a href="https://arxiv.org/pdf/2502.02384" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 24 of May-Aug 2025: APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search -->
+  <li>
+    <i><b>APRMCTS: Improving LLM-Based Automated Program Repair with Iterative Tree Search</b></i>, Hu et al.
+    <a href="https://arxiv.org/pdf/2507.01827" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 #### Scientific & Specialized Domains
 - Content related to "Scientific & Specialized Domains" goes here.
