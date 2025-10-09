@@ -16,7 +16,7 @@ Dive into this repository to explore how innovative search-based methods like MC
 
 <br>
 <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
-<br>
+<br><br>
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
 
