@@ -3,8 +3,6 @@
   
 <br><br>  
 <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
-
-**Figure:** Comparison of Training-time and Test-time Scaling: Highlighting Budget Allocation, Techniques, and Their Impact on Task Performance  
 <br><br>
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
