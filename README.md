@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Awesome Search Algorithms for Test-Time Scaling</h1>
   
-  <br><br> 
-  <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
-  <br><br> 
+<br><br>  
+<img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
+
+**Figure:** Comparison of Training-time and Test-time Scaling: Highlighting Budget Allocation, Techniques, and Their Impact on Task Performance  
+<br><br>
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AwesomeSearch-red)](https://arxiv.org/abs/2508.14111)
