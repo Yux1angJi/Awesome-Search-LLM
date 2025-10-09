@@ -29,6 +29,36 @@ Dive into this repository to explore how innovative search-based methods like MC
 </div>
 
 ## 👋 Introduction
+
+As the scaling of large language models (LLMs) during training reaches diminishing returns, there has been a shift toward scalable test-time reasoning algorithms. Chain-of-Thought (CoT) reasoning has emerged as a promising approach, enabling intermediate reasoning steps in text space. However, traditional CoT methods suffer from **single-path exploration**, which limits their ability to fully explore complex reasoning spaces. 
+
+To address this limitation, recent works have adopted **tree search-based reasoning frameworks**, inspired by classical search algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), and Monte Carlo Tree Search (MCTS). These methods demonstrate significant potential in balancing exploration and exploitation, enabling LLMs to efficiently solve complex tasks at test time.
+
+![Tree Search Evolution](./figures/fig_roadmap.png) <!-- Update with the path to image '645925398' -->
+
+
+This repository provides a **comprehensive framework** for tree search-based reasoning in LLMs, aiming to unify and advance the field. **Our primary contributions** include:
+
+1. **A Unified Formalism**:  
+   We propose a structured mathematical framework to analyze and compare tree search algorithms, focusing on their core mechanisms, reasoning reward formulations, and application domains. Specifically, we formalize the role of "reward" as a transient guidance signal in test-time search.
+
+2. **A Systematic Taxonomy**:  
+   We categorize existing search algorithms along three primary axes:
+   - The search mechanism (e.g., DFS, BFS, MCTS)
+   - The reward formulation
+   - The application domain
+
+   This taxonomy provides clarity for researchers and practitioners navigating this evolving field.
+
+3. **A Synthesis of Applications and Future Directions**:  
+   We map the primary applications of tree search reasoning, including mathematical reasoning, data generation, and optimization. Additionally, we highlight key areas for future research, such as improving general-purpose reasoning capabilities and enhancing scalability.
+
+![Tree Search Formalism](./figures/fig_notations.png) <!-- Update with the path to image '645925401' -->
+
+Our survey highlights the transformative potential of tree search-based reasoning frameworks in overcoming the limitations of traditional CoT methods. By providing a unified formalism, systematic taxonomy, and practical insights, we aim to establish a robust foundation for advancing LLM test-time reasoning.
+
+For more details, please refer to our full paper or explore the examples and implementations provided in this repository.
+
 ## 📑 Contents
 
 - [Part 1: MCTS for Direct Inference-Time Enhancement](#part-2-mcts-for-direct-inference-time-enhancement)
