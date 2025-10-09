@@ -14,15 +14,17 @@ This repository, accompanying our paper, provides **a comprehensive review** and
 
 Dive into this repository to explore how innovative search-based methods like MCTS are reshaping reasoning capabilities in LLMs!
 
-<br>
-<img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
-<br><br>
-
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
 
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
 
 **`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
+
+<br>
+<img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
+<br><br>
+
+
 
 </div>
 
