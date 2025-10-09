@@ -55,6 +55,7 @@ This repository provides a **comprehensive framework** for tree search-based rea
 
 ![Tree Search Formalism](./figures/fig_notations.png) <!-- Update with the path to image '645925401' -->
 
+
 Our survey highlights the transformative potential of tree search-based reasoning frameworks in overcoming the limitations of traditional CoT methods. By providing a unified formalism, systematic taxonomy, and practical insights, we aim to establish a robust foundation for advancing LLM test-time reasoning.
 
 For more details, please refer to our full paper or explore the examples and implementations provided in this repository.
