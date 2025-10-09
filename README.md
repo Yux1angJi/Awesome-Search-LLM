@@ -2,7 +2,7 @@
   <h1>Awesome Search Algorithms for Test-Time Scaling</h1>
   
   <br><br> 
-  <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.pdf">  
+  <img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
 
   <br><br> 
 
