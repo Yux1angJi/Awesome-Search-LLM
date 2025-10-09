@@ -15,7 +15,7 @@
 
 Welcome to the **"Awesome Search"** repository ！
 
-This repository, accompanying our paper, provides a comprehensive review and unified framework for tree search-based methods, 
+This repository, accompanying our paper, provides **a comprehensive review** and **unified framework** for tree search-based methods, 
 
 demonstrating how these algorithms are revolutionizing LLM test-time reasoning with scalable and efficient problem-solving solutions.
 
