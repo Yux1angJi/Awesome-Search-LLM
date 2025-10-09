@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Awesome Tree Search Algorithms for LLM</h1>
   
-<br><br>  
-<img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
-<br><br>
+
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AwesomeSearch-red)](https://arxiv.org/abs/2508.14111)
@@ -18,8 +16,6 @@ This repository, accompanying our paper, provides **a comprehensive review** and
 
 demonstrating how these algorithms are revolutionizing LLM test-time reasoning with scalable and efficient problem-solving solutions.
 
-
-
 Dive into this repository to explore how innovative search-based methods like MCTS are reshaping reasoning capabilities in LLMs!
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
@@ -27,6 +23,10 @@ Dive into this repository to explore how innovative search-based methods like MC
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
 
 **`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
+
+<br><br>  
+<img width="800" alt="Test-time-scaling" src="./figures/fig_scaling.png">  
+<br><br>
 
 </div>
 
