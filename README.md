@@ -2,7 +2,7 @@
   <h1>Awesome Search Algorithms for Test-Time Scaling</h1>
   
   <br><br> 
-  <img width="800" alt="Test-time-scaling" src="./figures/shlab3.png">  
+  <img width="800" alt="Test-time-scaling" src="./figures/fig1.png">  
 
   <br><br> 
 
@@ -1053,10 +1053,370 @@ Dive into this repository to explore how innovative search-based methods like MC
 </ul>
 
 #### Scientific & Specialized Domains
-- Content related to "Scientific & Specialized Domains" goes here.
+<ul>
+  <!-- Paper 19: Can large language models play games? a case study of a self-play approach -->
+  <li>
+    <i><b>Can Large Language Models Play Games? A Case Study of a Self-Play Approach</b></i>, Guo et al.
+    <a href="http://arxiv.org/pdf/2403.05632" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 23: A novel approach to optimize large language models for named entity matching with monte carlo tree search -->
+  <li>
+    <i><b>A Novel Approach to Optimize Large Language Models for Named Entity Matching with Monte Carlo Tree Search</b></i>, Volkova et al.
+    <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/224148/preprint_pdf/157c3392749a8fb55e09e2a452b5c1fb.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Preprint-2024-gray" alt="Preprint 2024">
+    </a>
+  </li>
+
+  <!-- Paper 24: Synthetic data generation from real data sources using monte carlo tree search and large language models -->
+  <li>
+    <i><b>Synthetic Data Generation from Real Data Sources Using Monte Carlo Tree Search and Large Language Models</b></i>, Locowic et al.
+    <a href="https://www.authorea.com/doi/full/10.22541/au.172660477.72210139" target="_blank">
+      <img src="https://img.shields.io/badge/Preprint-2024-gray" alt="Preprint 2024">
+    </a>
+  </li>
+
+  <!-- Paper 45: Monte carlo thought search: Large language model querying for complex scientific reasoning in catalyst design -->
+  <li>
+    <i><b>Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design</b></i>, Sprueill et al.
+    <a href="https://arxiv.org/pdf/2310.14420" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper 46: Strategist: Learning strategic skills by llms via bi-level tree search -->
+  <li>
+    <i><b>Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search</b></i>, Light et al.
+    <a href="https://arxiv.org/pdf/2408.10635" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 76: Think more, hallucinate less: Mitigating hallucinations via dual process of fast and slow thinking -->
+  <li>
+    <i><b>Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking</b></i>, Cheng et al.
+    <a href="https://arxiv.org/pdf/2501.01306" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 77: Peptune: De novo generation of therapeutic peptides with multi-objective-guided discrete diffusion -->
+  <li>
+    <i><b>PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion</b></i>, Tang et al.
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11703324/" target="_blank">
+      <img src="https://img.shields.io/badge/PMC-2025-green" alt="PMC 2025">
+    </a>
+  </li>
+
+  <!-- Paper 78: Multi-agent sampling: Scaling inference compute for data synthesis with tree search-based agentic collaboration -->
+  <li>
+    <i><b>Multi-Agent Sampling: Scaling Inference Compute for Data Synthesis with Tree Search-Based Agentic Collaboration</b></i>, Ye et al.
+    <a href="https://arxiv.org/pdf/2412.17061" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 79: What are step-level reward models rewarding? counterintuitive findings from mcts-boosted mathematical reasoning -->
+  <li>
+    <i><b>What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning</b></i>, Ma et al.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34663" target="_blank">
+      <img src="https://img.shields.io/badge/AAAI-2025-blue" alt="AAAI 2025">
+    </a>
+  </li>
+
+  <!-- Paper 80: Ensembling large language models with process reward-guided tree search for better complex reasoning -->
+  <li>
+    <i><b>Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning</b></i>, Park et al.
+    <a href="https://arxiv.org/pdf/2412.15797" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 81: Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling -->
+  <li>
+    <i><b>Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling</b></i>, Li et al.
+    <a href="https://arxiv.org/abs/2412.14860" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 84: SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search -->
+  <li>
+    <i><b>SAPIENT: Mastering Multi-Turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search</b></i>, Du et al.
+    <a href="https://arxiv.org/pdf/2410.09580" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 1 of Jan-Apr 2025: Monte carlo tree search for comprehensive exploration in llm-based automatic heuristic design -->
+  <li>
+    <i><b>Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design</b></i>, Zheng et al.
+    <a href="https://arxiv.org/pdf/2501.08603" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 3 of Jan-Apr 2025: Prompt-Based Monte Carlo Tree Search for Mitigating Hallucinations in Large Models -->
+  <li>
+    <i><b>Prompt-Based Monte Carlo Tree Search for Mitigating Hallucinations in Large Models</b></i>, Duan et al.
+    <a href="https://arxiv.org/pdf/2501.13942" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 5 of Jan-Apr 2025: MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking -->
+  <li>
+    <i><b>MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking</b></i>, Jiang et al.
+    <a href="https://arxiv.org/pdf/2501.12051" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 30 of May-Aug 2025: Lemma: Learning from errors for mathematical advancement in llms -->
+  <li>
+    <i><b>Lemma: Learning from Errors for Mathematical Advancement in LLMs</b></i>, Pan et al.
+    <a href="https://arxiv.org/pdf/2503.17439" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 34 of May-Aug 2025: Towards Stepwise Domain Knowledge-Driven Reasoning Optimization and Reflection Improvement -->
+  <li>
+    <i><b>Towards Stepwise Domain Knowledge-Driven Reasoning Optimization and Reflection Improvement</b></i>, Liu et al.
+    <a href="https://arxiv.org/pdf/2504.09058" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 36 of May-Aug 2025: Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data -->
+  <li>
+    <i><b>Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data</b></i>, Zou et al.
+    <a href="https://arxiv.org/pdf/2504.14669" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 38 of May-Aug 2025: Iris: Interactive research ideation system for accelerating scientific discovery -->
+  <li>
+    <i><b>Iris: Interactive Research Ideation System for Accelerating Scientific Discovery</b></i>, Garikaparthi et al.
+    <a href="https://arxiv.org/pdf/2504.16728" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 39 of May-Aug 2025: Monte carlo planning with large language model for text-based game agents -->
+  <li>
+    <i><b>Monte Carlo Planning with Large Language Model for Text-Based Game Agents</b></i>, Shi et al.
+    <a href="https://arxiv.org/pdf/2504.16855" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 43 of May-Aug 2025: MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration -->
+  <li>
+    <i><b>MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration</b></i>, Lu et al.
+    <a href="https://arxiv.org/pdf/2505.23229" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 #### Multimodal Applications
-- Content related to "Multimodal Applications" goes here.
+<ul>
+  <!-- Paper 19: Can large language models play games? a case study of a self-play approach -->
+  <li>
+    <i><b>Can Large Language Models Play Games? A Case Study of a Self-Play Approach</b></i>, Guo et al.
+    <a href="http://arxiv.org/pdf/2403.05632" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 23: A novel approach to optimize large language models for named entity matching with monte carlo tree search -->
+  <li>
+    <i><b>A Novel Approach to Optimize Large Language Models for Named Entity Matching with Monte Carlo Tree Search</b></i>, Volkova et al.
+    <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/224148/preprint_pdf/157c3392749a8fb55e09e2a452b5c1fb.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Preprint-2024-gray" alt="Preprint 2024">
+    </a>
+  </li>
+
+  <!-- Paper 24: Synthetic data generation from real data sources using monte carlo tree search and large language models -->
+  <li>
+    <i><b>Synthetic Data Generation from Real Data Sources Using Monte Carlo Tree Search and Large Language Models</b></i>, Locowic et al.
+    <a href="https://www.authorea.com/doi/full/10.22541/au.172660477.72210139" target="_blank">
+      <img src="https://img.shields.io/badge/Preprint-2024-gray" alt="Preprint 2024">
+    </a>
+  </li>
+
+  <!-- Paper 45: Monte carlo thought search: Large language model querying for complex scientific reasoning in catalyst design -->
+  <li>
+    <i><b>Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design</b></i>, Sprueill et al.
+    <a href="https://arxiv.org/pdf/2310.14420" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    </a>
+  </li>
+
+  <!-- Paper 46: Strategist: Learning strategic skills by llms via bi-level tree search -->
+  <li>
+    <i><b>Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search</b></i>, Light et al.
+    <a href="https://arxiv.org/pdf/2408.10635" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 76: Think more, hallucinate less: Mitigating hallucinations via dual process of fast and slow thinking -->
+  <li>
+    <i><b>Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking</b></i>, Cheng et al.
+    <a href="https://arxiv.org/pdf/2501.01306" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 77: Peptune: De novo generation of therapeutic peptides with multi-objective-guided discrete diffusion -->
+  <li>
+    <i><b>PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion</b></i>, Tang et al.
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11703324/" target="_blank">
+      <img src="https://img.shields.io/badge/PMC-2025-green" alt="PMC 2025">
+    </a>
+  </li>
+
+  <!-- Paper 78: Multi-agent sampling: Scaling inference compute for data synthesis with tree search-based agentic collaboration -->
+  <li>
+    <i><b>Multi-Agent Sampling: Scaling Inference Compute for Data Synthesis with Tree Search-Based Agentic Collaboration</b></i>, Ye et al.
+    <a href="https://arxiv.org/pdf/2412.17061" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 79: What are step-level reward models rewarding? counterintuitive findings from mcts-boosted mathematical reasoning -->
+  <li>
+    <i><b>What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning</b></i>, Ma et al.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34663" target="_blank">
+      <img src="https://img.shields.io/badge/AAAI-2025-blue" alt="AAAI 2025">
+    </a>
+  </li>
+
+  <!-- Paper 80: Ensembling large language models with process reward-guided tree search for better complex reasoning -->
+  <li>
+    <i><b>Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning</b></i>, Park et al.
+    <a href="https://arxiv.org/pdf/2412.15797" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 81: Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling -->
+  <li>
+    <i><b>Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling</b></i>, Li et al.
+    <a href="https://arxiv.org/abs/2412.14860" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 84: SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search -->
+  <li>
+    <i><b>SAPIENT: Mastering Multi-Turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search</b></i>, Du et al.
+    <a href="https://arxiv.org/pdf/2410.09580" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+
+  <!-- Paper 1 of Jan-Apr 2025: Monte carlo tree search for comprehensive exploration in llm-based automatic heuristic design -->
+  <li>
+    <i><b>Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design</b></i>, Zheng et al.
+    <a href="https://arxiv.org/pdf/2501.08603" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 3 of Jan-Apr 2025: Prompt-Based Monte Carlo Tree Search for Mitigating Hallucinations in Large Models -->
+  <li>
+    <i><b>Prompt-Based Monte Carlo Tree Search for Mitigating Hallucinations in Large Models</b></i>, Duan et al.
+    <a href="https://arxiv.org/pdf/2501.13942" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 5 of Jan-Apr 2025: MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking -->
+  <li>
+    <i><b>MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking</b></i>, Jiang et al.
+    <a href="https://arxiv.org/pdf/2501.12051" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 30 of May-Aug 2025: Lemma: Learning from errors for mathematical advancement in llms -->
+  <li>
+    <i><b>Lemma: Learning from Errors for Mathematical Advancement in LLMs</b></i>, Pan et al.
+    <a href="https://arxiv.org/pdf/2503.17439" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 34 of May-Aug 2025: Towards Stepwise Domain Knowledge-Driven Reasoning Optimization and Reflection Improvement -->
+  <li>
+    <i><b>Towards Stepwise Domain Knowledge-Driven Reasoning Optimization and Reflection Improvement</b></i>, Liu et al.
+    <a href="https://arxiv.org/pdf/2504.09058" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 36 of May-Aug 2025: Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data -->
+  <li>
+    <i><b>Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data</b></i>, Zou et al.
+    <a href="https://arxiv.org/pdf/2504.14669" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 38 of May-Aug 2025: Iris: Interactive research ideation system for accelerating scientific discovery -->
+  <li>
+    <i><b>Iris: Interactive Research Ideation System for Accelerating Scientific Discovery</b></i>, Garikaparthi et al.
+    <a href="https://arxiv.org/pdf/2504.16728" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 39 of May-Aug 2025: Monte carlo planning with large language model for text-based game agents -->
+  <li>
+    <i><b>Monte Carlo Planning with Large Language Model for Text-Based Game Agents</b></i>, Shi et al.
+    <a href="https://arxiv.org/pdf/2504.16855" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 43 of May-Aug 2025: MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration -->
+  <li>
+    <i><b>MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration</b></i>, Lu et al.
+    <a href="https://arxiv.org/pdf/2505.23229" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 33 of May-Aug 2025: Sota with less: Mcts-guided sample selection for data-efficient visual reasoning self-improvement -->
+  <li>
+    <i><b>SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement</b></i>, Wang et al.
+    <a href="https://arxiv.org/pdf/2504.07934" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 35 of May-Aug 2025: MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique -->
+  <li>
+    <i><b>MMC: Iterative Refinement of VLM Reasoning via MCTS-Based Multimodal Critique</b></i>, Liu et al.
+    <a href="https://arxiv.org/pdf/2504.11009" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+
+  <!-- Paper 48 of May-Aug 2025: MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision -->
+  <li>
+    <i><b>MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision</b></i>, Du et al.
+    <a href="https://arxiv.org/pdf/2505.13427" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ---
 
