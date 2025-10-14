@@ -3,9 +3,9 @@
   
   <br> 
   
-  [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
-  [![arXiv](https://img.shields.io/badge/arXiv-AwesomeSearch-red)](https://arxiv.org/abs/000)
-  [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
+  [![Project Homepage]()
+  [![arXiv](https://arxiv.org/pdf/2510.09988)
+  [![Citation](https://img.shields.io/badge/citation-4-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
 
@@ -15,7 +15,7 @@ This repository, accompanying our paper, provides **a comprehensive review** and
 
 Dive into this repository to explore how innovative search-based methods like MCTS are reshaping reasoning capabilities in LLMs!
 
-🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/000) or [homepage](https://agenticscience.github.io/)~
+🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/pdf/2510.09988)
 
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
 
