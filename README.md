@@ -3,8 +3,7 @@
   
   <br> 
   
-  [![Project Homepage]()
-  [![arXiv](https://arxiv.org/pdf/2510.09988)]
+  [![arXiv]](https://arxiv.org/pdf/2510.09988)
   [![Citation](https://img.shields.io/badge/citation-4-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
