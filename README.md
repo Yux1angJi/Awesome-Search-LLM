@@ -683,6 +683,14 @@ For more details, please refer to our full paper or explore the examples and imp
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
+
+  <!-- Paper (Sep 2025): Tree Search for LLM Agent Reinforcement Learning -->
+  <li>
+    <i><b>Tree Search for LLM Agent Reinforcement Learning</b></i>, Ji et al.
+    <a href="https://arxiv.org/abs/2509.21240" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
 </ul>
 
 ### Retrieval-Augmented Generation (RAG) & Knowledge-Intensive Tasks
